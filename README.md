@@ -1,6 +1,8 @@
 # SLLA-UNet: Deep Learning-Based Lung Ultrasound Decision Support for Subpleural Pulmonary Lesions
 
 This repository contains a cleaned implementation of **SLLA-UNet**, a joint segmentation-classification framework for lung ultrasound analysis of subpleural pulmonary lesions (SPLs). The code is intended to support reproducibility of the model architecture, training workflow, ablation settings, evaluation metrics, and Grad-CAM-based visual outputs described in the manuscript.
+![Uploading image.png…]()
+
 
 ## Scope of this public repository
 
