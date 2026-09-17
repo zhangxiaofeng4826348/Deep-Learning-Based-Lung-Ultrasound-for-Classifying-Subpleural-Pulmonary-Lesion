@@ -1,0 +1,14 @@
+input_size: 224
+epochs: 100
+batch_size: 8
+lr_encoder: 5.0e-6
+lr_decoder: 1.0e-5
+lr_classifier: 1.0e-5
+weight_decay: 1.0e-5
+min_lr: 1.0e-6
+lambda_cls: 1.0
+lambda_seg: 1.0
+focal_gamma: 1.0
+class_balanced_beta: 0.999
+threshold: 0.5
+seed: 2026

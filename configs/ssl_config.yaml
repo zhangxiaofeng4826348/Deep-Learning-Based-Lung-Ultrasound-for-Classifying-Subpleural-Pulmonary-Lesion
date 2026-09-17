@@ -1,0 +1,8 @@
+input_size: 224
+epochs: 500
+batch_size: 12
+learning_rate: 1.0e-4
+weight_decay: 1.0e-4
+temperature: 0.5
+projection_dim: 128
+seed: 2026
